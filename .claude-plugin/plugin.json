@@ -1,0 +1,26 @@
+{
+  "name": "python-dev-assistant",
+  "version": "0.1.0",
+  "description": "Python 开发助手插件 - 提供代码风格检查、项目生成、文档生成和代码片段功能",
+  "author": {
+    "name": "Claude Code User",
+    "email": "user@example.com"
+  },
+  "keywords": [
+    "python",
+    "django",
+    "flask",
+    "code-quality",
+    "documentation",
+    "snippets"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/python-dev-assistant",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/python-dev-assistant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/python-dev-assistant/issues"
+  }
+}
